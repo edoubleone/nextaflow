@@ -2691,7 +2691,7 @@ body {
   height: 82%;
   border-radius: 20px;
   z-index: -1;
-  background-color: var(--blackColor);
+  /* background-color: var(--blackColor); */
 }
 .service-area.style-one .section-shape-two {
   top: 28%;
